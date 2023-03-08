@@ -5,7 +5,7 @@ package HOTEL;
 
 /**
  * @author Daniel
- *
+ * 
  */
 public class Dobles extends Habitacion {
 
