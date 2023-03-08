@@ -3,6 +3,8 @@
  */
 package HOTEL;
 
+import java.util.Date;
+
 /**
  * @author Aaron
  * @version 2.0
@@ -97,6 +99,27 @@ public class Reserva{
 		this.Fentrada=Fentrada;
 		this.Fsalida=Fsalida;
 		this.Npersonas=Npersonas;
+	}
+	
+	/**
+	 * Este método crea una reserva
+	 */
+	public void crearReserva() {
+		
+	}
+	
+	/**
+	 * Este método que modifica una Reserva
+	 */
+	public void modificarReserva() {
+		
+	}
+	
+	/**
+	 * Este método que anula la Reserva
+	 */
+	public void anularReserva() {
+		
 	}
 
 }
